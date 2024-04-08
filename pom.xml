@@ -18,7 +18,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>JanusMessageSdk</groupId>
     <artifactId>shared-android</artifactId>
-    <version>0.7.29</version>
+    <version>0.7.32</version>
     <packaging>aar</packaging>
     <dependencies>
         <dependency>

@@ -1,5 +1,5 @@
 install:
   - FILE="-Dfile=shared-release.aar"
-  - mvn install:install-file $FILE -DgroupId=com.telnyx.janusmessagesdk -DartifactId=shared-android -Dversion=-0.7.29 -Dpackaging=aar -DpomFile=pom.xml
+  - mvn install:install-file $FILE -DgroupId=com.telnyx.janusmessagesdk -DartifactId=shared-android -Dversion=-0.7.32 -Dpackaging=aar -DpomFile=pom.xml
 jdk:
  - openjdk17

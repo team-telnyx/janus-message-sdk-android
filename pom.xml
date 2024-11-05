@@ -110,7 +110,7 @@
         <dependency>
             <groupId>io.ktor</groupId>
             <artifactId>ktor-client-core-jvm</artifactId>
-            <version>2.3.7</version>
+            <version>3.0.0</version>
             <scope>runtime</scope>
             <exclusions>
                 <exclusion>
